@@ -21,4 +21,4 @@ client.on("messageCreate", (message) => {
 client.on("interactionCreate" , interaction => {
    interaction.reply("Pong !!")
 })
-client.login('MTM4MjYwMDY2NzMzMTQyODQyMw.GnP6iS.oXAM7o8cXF5HmlRfug-g-VP1N8oJT8EfcSxZOU');
+client.login(bot_key);
